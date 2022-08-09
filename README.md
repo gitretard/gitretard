@@ -1,6 +1,1 @@
-
-<!---
-newuserbtw/newuserbtw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I forgor
+Nothing much guys. Just me taking this username and not fucking contributing anything to society,humanity. let alone living things
