@@ -1,5 +1,4 @@
-When will cafebabe unfban me?
-Also i compile Android firmwares from sauce. pinned repos should make it obvious
+n How to fix clang issues
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitretard&show_icons=true&theme=dark)
