@@ -1,4 +1,4 @@
-dogshit code is my hobby
+"It is better if you don't see my dogshit ""code"""
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitretard&show_icons=true&theme=dark)
