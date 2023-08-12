@@ -1,3 +1,2 @@
+i write half assed stuff.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitretard&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-cock
